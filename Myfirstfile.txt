@@ -1,6 +1,6 @@
 Changes made by Developer 2
 Chnages made by Developer 1
-Changes made to understand git.
+lallalalllaalalaa
 Changes made in main branch after creating testing branch 
 File pulled to local and modified 
 created another branch called dev from cdt branch and the changes are pushed to remote from local
